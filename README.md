@@ -27,3 +27,11 @@ The top five content categories by user engagement are Animals (74,965 posts), S
 The data shows that May has the highest number of posts with 2,138, followed by August with 2,114, and January with 2,126. Other notable months are December with 2,092 posts and July with 2,070. These months show increased engagement, making them ideal for maximizing marketing efforts.
 ![{5C30D8E4-5E3F-4450-8BA9-E232C3ECBE9C}](https://github.com/user-attachments/assets/1d70b57b-3d9d-4735-b9a8-d564a2a6f3c4)
 
+,660 postThe analysis of content types shows clear preferences among users. Photos lead with 6,589 posts, indicating a strong interest in visual content. Videos follow closely with 6,245 posts, reflecting a demand for dynamic and engaging formats. GIFs rank third with 6,079 posts, suggesting users enjoy short, looping animations. Audio content has the least engagement with 5s. These findings emphasize the need to prioritize photo and video content in future campaigns to align with audience preferences.
+
+![image](https://github.com/user-attachments/assets/4902dfe3-d604-4e16-ac5c-592263911fb7)
+The sentiment analysis shows that photos (6,589 posts) have the highest positive score of 3,700, along with a negative score of 2,057 and a neutral score of 832. Videos (6,245 posts) follow with a positive score of 3,510, a negative score of 1,943, and a neutral score of 792. GIFs (6,079 posts) receive a positive score of 3,381, a negative score of 1,924, and a neutral score of 774. Audio content (5,660 posts) has a positive score of 3,216, a negative score of 1,771, and a neutral score of 673. Overall, all content types generate more positive reactions than negative or neutral responses.
+![{3888B6CC-A35B-424D-B606-7EE92540BC44}](https://github.com/user-attachments/assets/24e91df1-d685-4123-a8d4-f5615163a9c3)
+![{B2B37674-8ED5-4FAA-A6FD-084E63E4FAAE}](https://github.com/user-attachments/assets/8efc5489-37ff-4383-977d-4b7f28471b52)
+
+
