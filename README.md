@@ -7,7 +7,8 @@ During the simulation, I cleaned, modeled, and analyzed seven datasets using Exc
 I also prepared a comprehensive PowerPoint deck and delivered a video presentation to effectively communicate key findings to both the client and internal stakeholders. This experience solidified my passion for data analytics and visualization, and I am excited about the possibility of applying these skills in a real-world setting! 🚀🔍
 
 
-![image](https://github.com/user-attachments/assets/15a26c2e-aaa2-4322-983b-5186576200a0)
+![{1DF00D15-7C16-43AE-B8E9-D42718BF7EDF}](https://github.com/user-attachments/assets/54218c93-a449-4959-b3a1-4e657639ff45)
+
 ![image](https://github.com/user-attachments/assets/0a20bf80-4428-457a-a12d-8e5e83b16d7d)
 
 ![image](https://github.com/user-attachments/assets/a83de02b-af52-473b-86ce-357e647fff0f)
