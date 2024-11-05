@@ -12,3 +12,14 @@ I also prepared a comprehensive PowerPoint deck and delivered a video presentati
 ![image](https://github.com/user-attachments/assets/0a20bf80-4428-457a-a12d-8e5e83b16d7d)
 
 ![image](https://github.com/user-attachments/assets/a83de02b-af52-473b-86ce-357e647fff0f)
+![{C5F5B1E3-692A-47CD-A4F0-61E4FD3FCA2A}](https://github.com/user-attachments/assets/c0991276-a8f6-4e23-ab94-dff5897386e8)
+
+![{E37004FC-171F-4362-B509-3AAC232CA807}](https://github.com/user-attachments/assets/631c336d-143a-463c-9602-b003085573e6)
+
+![image](https://github.com/user-attachments/assets/7af083f0-172d-4909-bd2e-028be7f333e9)
+![{91F0B57F-9E39-4305-AC33-00F8F96EAF30}](https://github.com/user-attachments/assets/e6b95711-906d-4b67-a889-a45fbf398a2e)
+
+![{32F85F09-4D0C-46BE-BC64-AB0FB1B997BC}](https://github.com/user-attachments/assets/b9e9c41c-093e-470d-8959-7394bba25791)
+
+The top five content categories by user engagement are Animals (74,965 posts), Science (71,168 posts), Healthy Eating (69,339 posts), Technology (68,738 posts), and Food (66,676 posts). These categories present key opportunities for targeted content campaigns to boost engagement.
+![image](https://github.com/user-attachments/assets/7c4f7293-23b7-464c-93d9-44e9169ee404)
