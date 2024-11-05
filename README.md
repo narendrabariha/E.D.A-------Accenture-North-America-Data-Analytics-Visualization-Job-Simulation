@@ -22,4 +22,8 @@ I also prepared a comprehensive PowerPoint deck and delivered a video presentati
 ![{32F85F09-4D0C-46BE-BC64-AB0FB1B997BC}](https://github.com/user-attachments/assets/b9e9c41c-093e-470d-8959-7394bba25791)
 
 The top five content categories by user engagement are Animals (74,965 posts), Science (71,168 posts), Healthy Eating (69,339 posts), Technology (68,738 posts), and Food (66,676 posts). These categories present key opportunities for targeted content campaigns to boost engagement.
-![image](https://github.com/user-attachments/assets/7c4f7293-23b7-464c-93d9-44e9169ee404)
+![{C2E7B628-657D-4DE2-B5B5-E5104F74BA15}](https://github.com/user-attachments/assets/c9665bba-c335-4df3-8985-dac1e4474e02)
+
+The data shows that May has the highest number of posts with 2,138, followed by August with 2,114, and January with 2,126. Other notable months are December with 2,092 posts and July with 2,070. These months show increased engagement, making them ideal for maximizing marketing efforts.
+![{5C30D8E4-5E3F-4450-8BA9-E232C3ECBE9C}](https://github.com/user-attachments/assets/1d70b57b-3d9d-4735-b9a8-d564a2a6f3c4)
+
